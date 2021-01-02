@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Training</folder>
+	<filename>training6.jpg</filename>
+	<path>E:\ISRO Internship\Brick-klin-images\Training\training6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1076</width>
+		<height>888</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brick Kiln</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>534</ymin>
+			<xmax>278</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Brick Kiln</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>666</xmin>
+			<ymin>650</ymin>
+			<xmax>752</xmax>
+			<ymax>734</ymax>
+		</bndbox>
+	</object>
+</annotation>
